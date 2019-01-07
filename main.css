@@ -3,6 +3,13 @@
     margin: 0px;
   }
   
+  .slide {
+      display: flex;
+      justify-content: center;
+      margin: 30px;
+  }
+  
+
   .window {
     width: 400px;
     overflow: hidden;
