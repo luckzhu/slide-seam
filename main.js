@@ -18,6 +18,9 @@ $(allButtons).on('click',function(x){
     .siblings('.active').removeClass('active')
 })
 
+allButtons.eq(n)
+    .addClass('active')
+    .siblings('.active').removeClass('active')
 
 var timerID = setInterval(() => {
   n += 1
