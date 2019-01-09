@@ -1,2 +1,1 @@
 # slide-seam
-# slide-noseam
